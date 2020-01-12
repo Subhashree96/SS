@@ -29,7 +29,7 @@ public class HomePageTest {
 	}
 	
 	@Test
-	public void shirtsTag() {
+	public void shirtsTags() {
 		Assert.assertTrue(bp.elementFound(hp.getshirtsTag()),"Failed to display");
 		
 	}
