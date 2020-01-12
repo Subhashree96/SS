@@ -17,7 +17,10 @@ public class HomePageTest {
 		
 	}
 	@Test
+
 	public void verifyWomenTags8768() {
+
+	public void verifyWomenTags12() {
 		Assert.assertTrue(bp.elementFound(hp.getWomenTag()),"Failed to display");
 		
 	}
