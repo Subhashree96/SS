@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14847" started-at="2020-01-05T06:07:17Z" finished-at="2020-01-05T06:07:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14847" started-at="2020-01-05T06:07:17Z" finished-at="2020-01-05T06:07:32Z">
+      <class name="app.tests.HomePageTest">
+        <test-method status="PASS" signature="DressesTag()[pri:0, instance:app.tests.HomePageTest@4a8355dd]" name="DressesTag" duration-ms="584" started-at="2020-01-04T22:07:17Z" finished-at="2020-01-04T22:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DressesTag -->
+        <test-method status="PASS" signature="shirtsTag()[pri:0, instance:app.tests.HomePageTest@4a8355dd]" name="shirtsTag" duration-ms="283" started-at="2020-01-04T22:07:17Z" finished-at="2020-01-04T22:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shirtsTag -->
+        <test-method status="PASS" signature="verifyDressespage()[pri:0, instance:app.tests.HomePageTest@4a8355dd]" name="verifyDressespage" duration-ms="4706" started-at="2020-01-04T22:07:18Z" finished-at="2020-01-04T22:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDressespage -->
+        <test-method status="PASS" signature="verifyWomenTag()[pri:0, instance:app.tests.HomePageTest@4a8355dd]" name="verifyWomenTag" duration-ms="282" started-at="2020-01-04T22:07:22Z" finished-at="2020-01-04T22:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenTag -->
+        <test-method status="PASS" signature="verifyWomenpage()[pri:0, instance:app.tests.HomePageTest@4a8355dd]" name="verifyWomenpage" duration-ms="3994" started-at="2020-01-04T22:07:23Z" finished-at="2020-01-04T22:07:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenpage -->
+        <test-method status="PASS" signature="verifyshirtspage()[pri:0, instance:app.tests.HomePageTest@4a8355dd]" name="verifyshirtspage" duration-ms="4960" started-at="2020-01-04T22:07:27Z" finished-at="2020-01-04T22:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyshirtspage -->
+      </class> <!-- app.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
